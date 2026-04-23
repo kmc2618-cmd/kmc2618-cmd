@@ -1,6 +1,12 @@
 ## やっほー！！ 👋
 マークダウンを学んだけどすぐ忘れそうだったよ
 
+15歳の〜〜です。
+かけうどん
+ぶっかけうどん
+しっぽくうどん
+が好きです
+
 <!--
 **kmc2618-cmd/kmc2618-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
