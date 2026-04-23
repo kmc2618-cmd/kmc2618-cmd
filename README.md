@@ -1,4 +1,5 @@
 ## やっほー！！ 👋
+マークダウンを学んだけどすぐ忘れそうだったよ
 
 <!--
 **kmc2618-cmd/kmc2618-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
